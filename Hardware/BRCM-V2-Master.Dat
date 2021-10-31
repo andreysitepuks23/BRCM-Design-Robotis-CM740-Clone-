@@ -1,0 +1,30 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~BRCM-V2-Master.PrjPCB|ReportField=ProjectFullPath~D:\KULIAH\PA 1\Project Akhir\PCB\Hardware\BRCM-V2-Master.PrjPCB|ReportField=Title~Bill of Materials For Project [BRCM-V2-Master.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~93|ReportField=ReportTime~00:43:42|ReportField=ReportDate~07/09/2018|ReportField=ReportDateTime~07/09/2018 00:43:42|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~07/09/2018|ReportField=CurrentTime~00:43:09|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\KULIAH\PA 1\Project Akhir\PCB\Hardware\Communication.SchDoc|ReportField=DocumentName~Communication.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~02/09/2018|ReportField=Organization~|ReportField=ProjectName~BRCM-V2-Master.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~BRCM-V2-Master.PrjPCB|ReportField=DataSourceFullPath~D:\KULIAH\PA 1\Project Akhir\PCB\Hardware\BRCM-V2-Master.PrjPCB|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|BEAD|Resistor|B1, B2, B3, B4|0603-RES|Res|4
+2|Cap|Capacitor|C1, C2, C3, C4, C5, C6, C10, C11, C12, C13, C14, C15, C16, C17, C18, C19, C20, C21, C22, C23, C24, C25, C26, C27, C28, C29|0603-CAP|Cap|26
+3|330uF 35V||C7|CAP 330uF 35V SMD|330uF 35V|1
+4|220uF 16V||C8, C9|CAP 220uF 16V|220uF 16V|2
+5|LED|Typical INFRARED GaAs LED|D1, D4, D5, D6, D7, D8|CHIPLED_0603|LED|6
+6|DIODA||D2, D3|DIODE SS14 SODFL|DIODA|2
+7|EMI FILTER DUAL CHANNEL||EF1, EF2|Emi Filter Dual Channel SOTFL|EMI FILTER DUAL CHANNEL|2
+8|LitleFuse||F1, F2|LitleFuse|LitleFuse|2
+9|MICRO USB||J1|USB_MICRO|MICRO USB|1
+10|BUZZER||LS1|DIODE SS14 SODFL|DIODA|1
+11|DEANS JACK||P1|Deans Jack|DEANS JACK|1
+12|DXL||P2, P3, P4, P5, P6|DXL|DXL|5
+13|Header 4|Header, 4-Pin|P7|HDR1X4|Header 4|1
+14|Header 5X2|Header, 5-Pin, Dual row|P8|HDR2X5|Header 5X2|1
+15|Header 2|Header, 2-Pin|P9|HDR1X2|Header 2|1
+16|NMOS|N-Channel Power MOSFET|Q1|SOT23|NMOS|1
+17|PMOS|P-Channel Power MOSFET|Q2|TO263|PMOS|1
+18|NPN|NPN Bipolar Transistor|Q3|SOT23|NPN|1
+19|Res|Resistor|R1, R2, R3, R4, R5, R6, R7, R8, R9, R10, R12, R13, R14, R15, R16, R17, R18, R19, R20, R21, R22|0603-RES|Res|21
+20|Varistor|Resistor|R10, R11|0603-RES|Res|2
+21|SW-PB|Switch|S1, S2, S3|TACTILE-SWITCH-SMD|SW-PB|3
+22|3-axis 6/12/24g SPI/I2C accelerometer||U1|LGA16-3MM|LIS331|1
+23|L3GD20H||U2|LGA16-3MM|L3GD20H|1
+24|Regulator 5V||U3|Regulator 5V DPAK|Regulator 5V|1
+25|74HC126D|Quadruple Bus Buffer Gate with 3-State Outputs|U4|14-SOIC|74HC126D|1
+26|Regulator 3V3||U4|Regulator 3V3 SOT230|Regulator 3V3|1
+27|FT232RL||U5|USB TO SERIAL FT232RL SOP|FT232RL|1
+28|ARM-based 32-bit MCU||U6|QFP-64N|STM32F103RET6|1
+29|XTAL|Crystal Oscillator|Y1|HC49US|XTAL|1

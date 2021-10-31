@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=U3-4
+Change Component Footprint: Designator=U3 Old Footprint=Regulator 5V DPAK New Footprint=DC/DC Converter
+Change Component Comment : Designator=U3 Old Comment=Regulator 5V New Comment=DC/DC Converter
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Room: Name=Communication
+Added Room: Name=Dynamixel Power
+Added Room: Name=IMU Sensor
+Added Room: Name=Main System
+Added Room: Name=Power Conversion

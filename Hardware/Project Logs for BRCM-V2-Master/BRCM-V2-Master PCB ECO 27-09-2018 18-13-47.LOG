@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetC5_1 Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C5-2
+Change Component Footprint: Designator=U2 Old Footprint=LGA16-3MM New Footprint=L3G4200D
+Change Component Comment : Designator=U2 Old Comment=L3GD20H New Comment=L3G4200D
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=C5-2
+Change Net Name : Old Net Name=NetC5_1 New Net Name=NetC5_2
+Added Member To Class: ClassName=IMU Sensor Member=Component C5 Cap
+Added Member To Class: ClassName=IMU Sensor Member=Component C6 Cap
+Added Member To Class: ClassName=IMU Sensor Member=Component R1 Res
+Added Room: Name=Communication
+Added Room: Name=Dynamixel Power
+Added Room: Name=IMU Sensor
+Added Room: Name=Main System
+Added Room: Name=Power Conversion

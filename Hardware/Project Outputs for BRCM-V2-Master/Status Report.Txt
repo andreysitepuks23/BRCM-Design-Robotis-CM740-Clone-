@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [BRCM-V2-Master.PrjPCB]
+   Generated File[BRCM-V2.1-Master-RoundHoles.TXT]
+   Generated File[BRCM-V2.1-Master-SlotHoles.TXT]
+   Generated File[BRCM-V2.1-Master.LDP]
+   Generated File[BRCM-V2.1-Master.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 17:52:22 On 19/07/2019

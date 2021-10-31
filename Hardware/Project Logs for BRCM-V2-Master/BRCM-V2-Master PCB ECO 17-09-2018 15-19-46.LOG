@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetP9_1 Pin=R5-2
+Added Pin To Net: NetName=NetP9_2 Pin=R5-2
+Added Member To Class: ClassName=Communication Member=Component R10 Varistor
+Added Room: Name=Communication
+Added Room: Name=Dynamixel Power
+Added Room: Name=IMU Sensor
+Added Room: Name=Main System
+Added Room: Name=Power Conversion

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VDD Pin=U3-1
+Removed Pin From Net: NetName=GND Pin=U3-2
+Removed Pin From Net: NetName=VCC Pin=U3-3
+Removed Member From Class: ClassName=Power Conversion Member=U3

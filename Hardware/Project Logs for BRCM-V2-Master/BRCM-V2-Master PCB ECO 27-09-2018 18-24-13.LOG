@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=3V3 Pin=U2-1
+Removed Pin From Net: NetName=SCK Pin=U2-2
+Removed Pin From Net: NetName=MOSI Pin=U2-3
+Removed Pin From Net: NetName=MISO Pin=U2-4
+Removed Pin From Net: NetName=GYRO_CS Pin=U2-5
+Removed Pin From Net: NetName=GND Pin=U2-8
+Removed Pin From Net: NetName=GND Pin=U2-9
+Removed Pin From Net: NetName=GND Pin=U2-10
+Removed Pin From Net: NetName=GND Pin=U2-11
+Removed Pin From Net: NetName=GND Pin=U2-12
+Removed Pin From Net: NetName=GND Pin=U2-13
+Removed Pin From Net: NetName=NetC5_2 Pin=U2-14
+Removed Pin From Net: NetName=3V3 Pin=U2-15
+Removed Pin From Net: NetName=3V3 Pin=U2-16
+Added Component: Designator=U?(L3G4200D)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3V3 Pin=U?-1
+Added Pin To Net: NetName=SCK Pin=U?-2
+Added Pin To Net: NetName=MOSI Pin=U?-3
+Added Pin To Net: NetName=MISO Pin=U?-4
+Added Pin To Net: NetName=GYRO_CS Pin=U?-5
+Added Pin To Net: NetName=GND Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-9
+Added Pin To Net: NetName=GND Pin=U?-10
+Added Pin To Net: NetName=GND Pin=U?-11
+Added Pin To Net: NetName=GND Pin=U?-12
+Added Pin To Net: NetName=GND Pin=U?-13
+Added Pin To Net: NetName=NetC5_2 Pin=U?-14
+Added Pin To Net: NetName=3V3 Pin=U?-15
+Added Pin To Net: NetName=3V3 Pin=U?-16
+Added Member To Class: ClassName=IMU Sensor Member=Component U? L3G4200D
+Added Room: Name=Communication
+Added Room: Name=Dynamixel Power
+Added Room: Name=IMU Sensor
+Added Room: Name=Main System
+Added Room: Name=Power Conversion
